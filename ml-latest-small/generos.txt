@@ -1,4 +1,3 @@
-Genres
 Action
 Adventure
 Animation
